@@ -1,0 +1,57 @@
+C:\Users\22ckramer\Desktop\Visual Basic\Uno\Uno\bin\Debug\Uno.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\Uno\Uno\bin\Debug\Uno.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Uno\Uno\bin\Debug\Uno.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Uno\Uno\bin\Debug\Uno.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Uno\Uno\obj\Debug\Uno.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Uno\Uno\obj\Debug\Uno.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Uno\Uno\obj\Debug\Uno.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Uno\Uno\obj\Debug\Uno.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Uno\Uno\obj\Debug\Uno.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Uno\Uno\obj\Debug\Uno.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Uno\Uno\obj\Debug\Uno.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Uno\Uno\obj\Debug\Uno.Form2.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Uno2\Uno\obj\Debug\Uno.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Uno2\Uno\obj\Debug\Uno.Form2.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Uno2\Uno\obj\Debug\Uno.Resources.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Uno2\Uno\obj\Debug\Uno.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Uno2\Uno\obj\Debug\Uno.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Visual Basic\Uno2\Uno\obj\Debug\Uno.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Uno2\Uno\obj\Debug\Uno.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Uno2\Uno\obj\Debug\Uno.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Uno2\Uno\bin\Debug\Uno.exe.config
+C:\Users\22ckramer\Desktop\Visual Basic\Uno2\Uno\bin\Debug\Uno.exe
+C:\Users\22ckramer\Desktop\Visual Basic\Uno2\Uno\bin\Debug\Uno.pdb
+C:\Users\22ckramer\Desktop\Visual Basic\Uno2\Uno\bin\Debug\Uno.xml
+C:\Users\22ckramer\Desktop\Visual Basic\Uno2\Uno\obj\Debug\Uno.deckCard.resources
+C:\Users\22ckramer\Desktop\Visual Basic\Uno\Uno\obj\Debug\Uno.deckCard.resources
+F:\Downloads\Uno\Uno\bin\Debug\Uno.exe.config
+F:\Downloads\Uno\Uno\bin\Debug\Uno.exe
+F:\Downloads\Uno\Uno\bin\Debug\Uno.pdb
+F:\Downloads\Uno\Uno\bin\Debug\Uno.xml
+F:\Downloads\Uno\Uno\obj\Debug\Uno.vbprojAssemblyReference.cache
+F:\Downloads\Uno\Uno\obj\Debug\Uno.Form2.resources
+F:\Downloads\Uno\Uno\obj\Debug\Uno.Resources.resources
+F:\Downloads\Uno\Uno\obj\Debug\Uno.vbproj.GenerateResource.cache
+F:\Downloads\Uno\Uno\obj\Debug\Uno.vbproj.CoreCompileInputs.cache
+F:\Downloads\Uno\Uno\obj\Debug\Uno.exe
+F:\Downloads\Uno\Uno\obj\Debug\Uno.xml
+F:\Downloads\Uno\Uno\obj\Debug\Uno.pdb
+F:\Downloads\Uno\Uno\obj\Debug\Uno.Form1.resources
+C:\Users\22ckramer\Desktop\Uno2\Uno\Uno\obj\Debug\Uno.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Uno2\Uno\Uno\obj\Debug\Uno.exe
+C:\Users\22ckramer\Desktop\Uno2\Uno\Uno\obj\Debug\Uno.xml
+C:\Users\22ckramer\Desktop\Uno2\Uno\Uno\obj\Debug\Uno.pdb
+C:\Users\22ckramer\Desktop\Uno\Uno\bin\Debug\Uno.exe.config
+C:\Users\22ckramer\Desktop\Uno\Uno\bin\Debug\Uno.exe
+C:\Users\22ckramer\Desktop\Uno\Uno\bin\Debug\Uno.pdb
+C:\Users\22ckramer\Desktop\Uno\Uno\bin\Debug\Uno.xml
+C:\Users\22ckramer\Desktop\Uno\Uno\obj\Debug\Uno.vbprojAssemblyReference.cache
+C:\Users\22ckramer\Desktop\Uno\Uno\obj\Debug\Uno.Form1.resources
+C:\Users\22ckramer\Desktop\Uno\Uno\obj\Debug\Uno.Form2.resources
+C:\Users\22ckramer\Desktop\Uno\Uno\obj\Debug\Uno.Resources.resources
+C:\Users\22ckramer\Desktop\Uno\Uno\obj\Debug\Uno.vbproj.GenerateResource.cache
+C:\Users\22ckramer\Desktop\Uno\Uno\obj\Debug\Uno.vbproj.CoreCompileInputs.cache
+C:\Users\22ckramer\Desktop\Uno\Uno\obj\Debug\Uno.exe
+C:\Users\22ckramer\Desktop\Uno\Uno\obj\Debug\Uno.xml
+C:\Users\22ckramer\Desktop\Uno\Uno\obj\Debug\Uno.pdb
+C:\Users\22ckramer\Desktop\Uno\Uno\obj\Debug\Uno.SplashScreen1.resources
