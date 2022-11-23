@@ -12,3 +12,14 @@ Your deck is visually represented at the bottom of the screen, only showing 6 ca
 To place a card, you need to click on the card in your deck and then click on the top card of the pile. If you don’t have any available cards, you need to click on the Uno card to the left of the pile to draw a card. 
 
 When you have placed your second to last card, you have 5 seconds before the computer makes it’s turn to click the Uno play button to say uno or you will receive a two card penalty.
+
+
+This project is a recreation of the card game Uno in Visual Basic, playing against the computer with varying levels of difficulty.
+______________________________________________________________________________________________________________________
+Challenges:
+1. How to create various difficulties
+2. How to create a playable AI
+3. How to create a deck of cards
+4. How to visually represent the cards
+5. How to implement the specialized cards
+![image](https://user-images.githubusercontent.com/95256790/203458691-9ca850b3-d0c9-438d-bc69-4d5a3343f61a.png)
