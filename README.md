@@ -16,9 +16,15 @@ When you have placed your second to last card, you have 5 seconds before the com
 
 This project is a recreation of the card game Uno in Visual Basic, playing against the computer with varying levels of difficulty.
 ______________________________________________________________________________________________________________________
+
 Challenges:
 1. How to create various difficulties
+I decided to create just one difficulty due of time.
 2. How to create a playable AI
+I created a timer that repetitively checked if it was the computer's turn. If it was the computer's turn, it checked to see if any of the cards in the computer's deck were compatible with the top card on the pile. If so, it randomly chose a possible card. If not, it drew a card from the deck.
 3. How to create a deck of cards
+The deck is represented as a listbox, with each card in the deck being represented as an item in the list. Each deck of cards is generated when the game starts by randomly selecting 7 cards from the pile.
 4. How to visually represent the cards
+Each card is represented by a label box which changes background color to the card color, and changes the text to the type of card the label is representing.
 5. How to implement the specialized cards
+The specialized cards are added with specific code for every card rather than just a generic number card code. With each special card being individually checked, specific actions like adding cards to an opponent's deck or skipping an opponents turn can be added directly in the check statement.
