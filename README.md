@@ -22,4 +22,3 @@ Challenges:
 3. How to create a deck of cards
 4. How to visually represent the cards
 5. How to implement the specialized cards
-![image](https://user-images.githubusercontent.com/95256790/203458691-9ca850b3-d0c9-438d-bc69-4d5a3343f61a.png)
